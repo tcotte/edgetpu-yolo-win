@@ -52,5 +52,5 @@ python detect.py \
 
 This repository is a fork of **edgetpu-yolo** from **jveitchmichaelis**.
 
-[1] https://github.com/jveitchmichaelis/edgetpu-yolo
+[1] https://github.com/jveitchmichaelis/edgetpu-yolo    
 [2] https://coral.ai/docs/accelerator/get-started
